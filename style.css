@@ -1,0 +1,24 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Dancing+Script:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background: url("img/Library.jpg") no-repeat fixed center;
+    height: 100vh;
+    /* url: https://miro.medium.com/max/11914/0*ZQJRryxWCxq9H5I3   */
+}
+
+
+blockquote {
+    background-color: #fff;
+}
+
+p {
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
